@@ -218,3 +218,4 @@ ydb/tests/functional/serializable test.py.test_local
 ydb/core/blobstorage/ut_vdisk TBsVDiskGC.GCPutKeepBarrierSync
 ydb/core/blobstorage/ut_vdisk TBsVDiskManyPutGet.ManyPutRangeGetCompactionIndexOnly
 ydb/core/statistics/service/ut StatisticsService.ChildNodesShouldBeInvalidateByTimeout
+ydb/tools/stress_tool/ut TDeviceTestTool.PDiskTestLogWrite
